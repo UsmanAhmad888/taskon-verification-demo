@@ -2,7 +2,7 @@
 
 This repository provides a demo implementation of the TaskOn Verification API. It serves as a reference for implementing your own verification service that integrates with TaskOn.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftaskon-xyz%2Ftaskon-verification-demo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/UsmanAhmad888/taskon-verification-demo)
 
 ## Features
 
